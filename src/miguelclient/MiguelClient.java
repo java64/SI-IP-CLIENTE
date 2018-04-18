@@ -100,9 +100,6 @@ public class MiguelClient {
         password = password.substring(password.indexOf("=")+1, password.length());
         
         
-
-        System.out.println(servidor);
-
         String urlBD = "jdbc:mysql://"+ servidor +":"+ puerto +"/"+nombreBD;
         
         try {

@@ -1,0 +1,5 @@
+servidor = 192.168.195.132
+puerto = 3306
+nombreBD = sirvent
+usuarioBD = sirvent
+pass = sirvent1234
